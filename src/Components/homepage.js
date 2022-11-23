@@ -36,13 +36,14 @@ export default function homepage() {
               </div>
               <br></br>
               <div id="buttondiv"><a href="/about" id="buttonread">Read More</a></div><br></br> <br></br>
+              <br></br><br></br>
               <marquee id="discount" behavior="" direction="">Get 5% Discount On Pre Booking;</marquee>
             </div>
           </div>
           <div id="dreamright">
           <SimpleImageSlider
         width={800}
-        height={500}
+        height={600}
         images={images}
         showBullets={true}
         showNavs={true}
